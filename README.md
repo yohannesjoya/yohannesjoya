@@ -1,4 +1,4 @@
-<img height="180px" src="https://media.tenor.com/GVk4jB2u_i8AAAAC/coding.gif" width="100%"/>
+<img height="240px" src="https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg?w=1380" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Yohannes Desta</h1>
 <h3 align="center">A passionate Full Stack Developer from Ethiopia <img width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/flag-ethiopia_1f1ea-1f1f9.png"/></h3>
