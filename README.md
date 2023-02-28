@@ -8,13 +8,9 @@
 
 <div>
 
-  - 🌱 I’m currently learning **Angular,**
-
-- 💬 Ask me about **MERN**
-
+  - 🌱 I’m currently learning **Blockchain, Solidity and Smart contracts,**
+ 
 - 📫 How to reach me **yohannesdestagebru10@gmail.com**
-
-- ⚡ Fun fact **There is nothing funny in Life**
 </div>
 
 
