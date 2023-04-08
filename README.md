@@ -12,7 +12,7 @@
   - 🌱 I’m currently learning **Blockchain, Solidity and Smart contracts,**
  
 - 📫 How to reach me **yohannesdestagebru10@gmail.com**
-- 📫 Website **[yohannesdestagebru10@gmail.com](https://yohannesdesta.netlify.app/)**
+- 📫 Website **[Yohannes Desta](https://yohannesdesta.netlify.app/)**
   
 </div>
 
