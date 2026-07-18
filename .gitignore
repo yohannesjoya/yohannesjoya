@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Local/generated portrait inputs
+source-photo.*
+source-prepped.png
